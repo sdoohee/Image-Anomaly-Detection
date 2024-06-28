@@ -23,6 +23,8 @@ Columns:
 _더 많은 예제와 사용법은 [ipynb]파일을 참고하세요._
 
 ## Readerboard
+
+score : 3/60
 <img width="1440" alt="스크린샷 2023-05-25 오후 11 47 53" src="https://github.com/sdoohee/project/assets/90372242/989e9995-2258-4cb6-a513-b41b0fdbfad4">
 
 
